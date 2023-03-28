@@ -36,7 +36,7 @@
 
 [x] JavaScript: A "Hello world" tier Javascript routine, loaded via an external file
 
-[?] Correct Files Submitted: The HTML/CSS/JavaScript files are compressed and submitted via a Github repository
+[x] Correct Files Submitted: The HTML/CSS/JavaScript files are compressed and submitted via a Github repository
 
 [x] Understands git and github fundamentals
 
