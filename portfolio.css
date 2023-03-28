@@ -12,7 +12,7 @@ html {
 }
 
 /* set background color for body */
-/* body {
+body {
   background: linear-gradient(
     10deg,
     rgba(0, 0, 0, 0.066),
@@ -21,7 +21,7 @@ html {
   max-width: 960px;
   color: #000000fa;
   margin: 0 auto;
-} */
+}
 
 /* add slider function */
 /* body {
@@ -94,7 +94,7 @@ html {
 
 /* set styling for main section */
 main {
-  background-image: url("img/Limitless.png");
+  background-image: url("img/limitless.png");
   background-size: cover;
   min-height: 100vh;
   padding: 64px 24px 96px;
