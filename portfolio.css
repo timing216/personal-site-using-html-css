@@ -18,7 +18,7 @@ body {
     rgba(0, 0, 0, 0.066),
     rgba(255, 255, 255, 0.8)
   );
-  max-width: 960px;
+  /* max-width: 960px; */
   color: #000000fa;
   margin: 0 auto;
 }
