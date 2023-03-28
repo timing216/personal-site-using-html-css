@@ -94,7 +94,7 @@ html {
 
 /* set styling for main section */
 main {
-  background-image: url("img/Limitless.png");
+  background-image: url("img/limitless.png");
   background-size: cover;
   min-height: 100vh;
   padding: 64px 24px 96px;
