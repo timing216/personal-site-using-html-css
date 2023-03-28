@@ -13,11 +13,9 @@ html {
 
 /* set background color for body */
 body {
-  background: linear-gradient(
-    10deg,
-    rgba(0, 0, 0, 0.066),
-    rgba(255, 255, 255, 0.8)
-  );
+  background: linear-gradient(1deg,
+      rgba(0, 0, 0, 0.066),
+      rgba(255, 255, 255, 0.8));
   /* max-width: 960px; */
   color: #000000fa;
   margin: 0 auto;
@@ -55,12 +53,12 @@ header::after {
   content: "";
 }
 
-section:nth-of-type(odd) > img {
+section:nth-of-type(odd)>img {
   float: left;
   margin: 0 24px 24px 0px;
 }
 
-section:nth-of-type(even) > img {
+section:nth-of-type(even)>img {
   float: right;
   margin: 0 0 24px 24px;
 }
@@ -142,4 +140,5 @@ footer .media-link {
 /* set position for "me" span in quote */
 /* .me {
   padding-left: 270px;
-} */
+}
+*/
